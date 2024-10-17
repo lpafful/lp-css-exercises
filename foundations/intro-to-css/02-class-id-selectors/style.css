@@ -1,12 +1,10 @@
 .odd {
-    background-color: #ffb6c1;
+    background-color: rgb(255, 182, 193);
     font-family: Verdana, "DejaVu Sans", sans-serif; 
 
 }
 
-.odd.cooler {
-    background-color: #ffb6c1;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+.cooler {
     font-size: 24px;
 }
 
@@ -14,8 +12,8 @@
     color:#0000ff;
     font-size: 36px;
 }
-#even-other {
-    background-color: #90ee90;
-    font-size: 24px;
+
+#other {
+    background-color: hsl(120, 73%, 75%);
     font-weight: bold;
 }
